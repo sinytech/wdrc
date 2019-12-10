@@ -1,0 +1,14 @@
+{
+    "APP_PORT": 3033,
+    "mongodb": "mongodb://recruitment:password@localhost:27017/recruitment",
+    "secretKey": "testSecretKey",
+    "tokenMaxAge": 36000,
+    "weather": {
+        "secretKey": "d0a10211ea3d36b0a6423a104782130e"
+    },
+    "static": {
+        "filePrefix": "https://recruitment.dev.cogniteq.com/static/",
+        "files": "/files",
+        "public": "/../frontend/build"
+    }
+}

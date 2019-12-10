@@ -1,0 +1,2 @@
+export const FETCH_CLOTHES = 'FETCH_CLOTHES'
+export const RECEIVE_CLOTHES = 'RECEIVE_CLOTHES'

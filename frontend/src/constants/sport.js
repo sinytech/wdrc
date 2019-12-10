@@ -1,0 +1,3 @@
+export const FETCH_TEAMS = 'FETCH_TEAMS'
+export const RECEIVE_TEAMS = 'RECEIVE_TEAMS'
+export const RESET_TEAMS = 'RESET_TEAMS'
